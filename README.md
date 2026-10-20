@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  <a href="https://github.com/SimeonMataka/track-order-mw_app-releases/releases/latest">⬇️ Download the latest version for Android</a>
+  <a href="https://github.com/SimeonMataka/track-order-mw_app-releases/releases/latest">Download the latest version for Android</a>
 </h3>
 
 ---
@@ -25,12 +25,12 @@ There is no source code here.
 
 | | |
 | --- | --- |
-| 📦 **Orders** | Log requests with photos straight from the camera, add prices, update the status, flag delays, share the tracking link |
-| 💰 **Payments** | Record deposits and payments in seconds – the customer gets a receipt automatically |
-| 💬 **WhatsApp inbox** | Read and answer customers' WhatsApp and tracking-page messages, with their order right beside the chat |
-| 🔔 **Notifications** | New customer messages, quotation answers and problems arrive instantly – reply straight from the notification |
-| 👥 **Customers** | Find any customer, see what they owe, send a balance reminder on WhatsApp |
-| 🔒 **Secure** | Your own business account, optional fingerprint / Face ID lock, sign-in stored in the phone's secure keystore |
+| **Orders** | Log requests with photos straight from the camera, add prices, update the status, flag delays, share the tracking link |
+| **Payments** | Record deposits and payments in seconds – the customer gets a receipt automatically |
+| **WhatsApp inbox** | Read and answer customers' WhatsApp and tracking-page messages, with their order right beside the chat |
+| **Notifications** | New customer messages, quotation answers and problems arrive instantly – reply straight from the notification |
+| **Customers** | Find any customer, see what they owe, send a balance reminder on WhatsApp |
+| **Secure** | Your own business account, optional fingerprint / Face ID lock, sign-in stored in the phone's secure keystore |
 
 ## Install on your Android phone
 
