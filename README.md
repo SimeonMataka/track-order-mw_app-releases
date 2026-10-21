@@ -14,9 +14,10 @@
 
 ---
 
-**Track Order MW** helps businesses that buy goods abroad for their customers (China, Dubai, South
-Africa …) and ship them to Malawi. Staff use this app on their phones to keep every order, payment
-and customer conversation in one place, while customers follow their orders on a tracking link.
+**Track Order MW** helps businesses that buy goods abroad for their customers (from China, Dubai or
+anywhere else) and ship them to Malawi. Staff use this app on their phones to keep every order,
+payment and customer conversation in one place, while customers follow their orders on a tracking
+link. Website: [trackordermw.com](https://trackordermw.com).
 
 This repository only holds the **installable app files** (Android APKs) and their release notes.
 There is no source code here.
@@ -26,7 +27,7 @@ There is no source code here.
 | | |
 | --- | --- |
 | **Orders** | Log requests with photos straight from the camera, add prices, update the status, flag delays, share the tracking link |
-| **Payments** | Record deposits and payments in seconds – the customer gets a receipt automatically |
+| **Payments** | Record the deposits and payments customers made (cash, bank or mobile money) – the customer gets a receipt automatically |
 | **WhatsApp inbox** | Read and answer customers' WhatsApp and tracking-page messages, with their order right beside the chat |
 | **Notifications** | New customer messages, quotation answers and problems arrive instantly – reply straight from the notification |
 | **Customers** | Find any customer, see what they owe, send a balance reminder on WhatsApp |
@@ -106,7 +107,15 @@ Version numbers follow `MAJOR.MINOR.PATCH` (for example `1.2.0`). See all
 ## Need help?
 
 Ask your business owner or manager first – they manage your account. For problems with the app
-itself, contact the Track Order MW team through the **Help centre** in the web app.
+itself, contact the Track Order MW team:
+
+| | |
+| --- | --- |
+| **Email** | [support@trackordermw.com](mailto:support@trackordermw.com) |
+| **WhatsApp** | [+265 993 21 31 63](https://wa.me/265993213163) |
+| **Website** | [trackordermw.com](https://trackordermw.com) |
+
+The **Help centre** in the web app and **More → Help & support** in the app show the same contacts.
 
 <details>
 <summary><b>For maintainers: how releases get here</b></summary>
